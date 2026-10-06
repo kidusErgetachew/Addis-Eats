@@ -1,0 +1,96 @@
+[
+  {
+    "id": "doro-wat",
+    "name": "Doro Wat",
+    "category": "Ethiopian",
+    "price": 350,
+    "description": "Slow-cooked chicken in a rich berbere sauce, with a boiled egg and soft, tangy injera. A little taste of home in every bite.",
+    "ingredients": [
+      "Chicken",
+      "Berbere",
+      "Onion",
+      "Garlic",
+      "Ginger",
+      "Egg",
+      "Injera"
+    ],
+    "image": "/images/doro-wat.jpg",
+    "rating": 4.9,
+    "minutes": 30,
+    "popular": true,
+    "spicy": true
+  },
+  {
+    "id": "tibs",
+    "name": "Tibs",
+    "category": "Ethiopian",
+    "price": 320,
+    "description": "Tender beef sautéed with onions, peppers and fragrant Ethiopian spices. Served sizzling with freshly made injera.",
+    "ingredients": [
+      "Beef",
+      "Onion",
+      "Green pepper",
+      "Rosemary",
+      "Spiced butter",
+      "Injera"
+    ],
+    "image": "/images/tibs.jpg",
+    "rating": 4.8,
+    "minutes": 25,
+    "popular": true,
+    "spicy": true
+  },
+  {
+    "id": "margherita-pizza",
+    "name": "Margherita Pizza",
+    "category": "Pizza",
+    "price": 380,
+    "description": "A golden, oven-baked crust with bright tomato sauce, melting mozzarella and fresh basil. Simple ingredients, beautifully done.",
+    "ingredients": [
+      "Wheat flour",
+      "Tomato",
+      "Mozzarella",
+      "Basil",
+      "Olive oil"
+    ],
+    "image": "/images/pizza.jpg",
+    "rating": 4.7,
+    "minutes": 25,
+    "popular": true,
+    "spicy": false
+  },
+  {
+    "id": "cheese-burger",
+    "name": "Cheese Burger",
+    "category": "Burgers",
+    "price": 420,
+    "description": "A juicy grilled beef patty, melted cheese, crisp lettuce and our house sauce, tucked into a toasted sesame bun.",
+    "ingredients": [
+      "Beef",
+      "Cheddar",
+      "Lettuce",
+      "Tomato",
+      "Onion",
+      "Sesame bun",
+      "House sauce"
+    ],
+    "image": "/images/burger.jpg",
+    "rating": 4.8,
+    "minutes": 20,
+    "popular": true,
+    "spicy": false
+  },
+  {
+    "id": "fresh-juice",
+    "name": "Fresh Juice",
+    "category": "Drinks",
+    "price": 180,
+    "description": "Freshly squeezed orange juice. Bright, refreshing and made to order, with no added sugar.",
+    "ingredients": ["Orange"],
+    "image": "/images/juice.jpg",
+    "rating": 4.9,
+    "minutes": 10,
+    "popular": false,
+    "spicy": false
+  }
+]
